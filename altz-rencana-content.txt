@@ -1,0 +1,8 @@
+Rencana Konten ALTZ
+
+- Javascript
+  * ES6
+  * Framworks Javascript
+- PHP Framwork
+- Interview
+- Vlog
