@@ -3,7 +3,9 @@ Rencana Konten ALTZ
 - Javascript
   * ES6
   * Framworks Javascript
-- Struktur Data Dasar
+    ^ Angular
+    ^ React
 - PHP Framwork
+  ^ Laravel
 - Interview
 - Vlog
